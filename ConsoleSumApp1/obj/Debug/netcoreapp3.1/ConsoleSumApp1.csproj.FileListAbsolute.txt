@@ -1,0 +1,13 @@
+C:\Users\awashi1\source\repos\ConsoleSumApp1\bin\Debug\netcoreapp3.1\ConsoleSumApp1.exe
+C:\Users\awashi1\source\repos\ConsoleSumApp1\bin\Debug\netcoreapp3.1\ConsoleSumApp1.deps.json
+C:\Users\awashi1\source\repos\ConsoleSumApp1\bin\Debug\netcoreapp3.1\ConsoleSumApp1.runtimeconfig.json
+C:\Users\awashi1\source\repos\ConsoleSumApp1\bin\Debug\netcoreapp3.1\ConsoleSumApp1.runtimeconfig.dev.json
+C:\Users\awashi1\source\repos\ConsoleSumApp1\bin\Debug\netcoreapp3.1\ConsoleSumApp1.dll
+C:\Users\awashi1\source\repos\ConsoleSumApp1\bin\Debug\netcoreapp3.1\ConsoleSumApp1.pdb
+C:\Users\awashi1\source\repos\ConsoleSumApp1\obj\Debug\netcoreapp3.1\ConsoleSumApp1.csprojAssemblyReference.cache
+C:\Users\awashi1\source\repos\ConsoleSumApp1\obj\Debug\netcoreapp3.1\ConsoleSumApp1.AssemblyInfoInputs.cache
+C:\Users\awashi1\source\repos\ConsoleSumApp1\obj\Debug\netcoreapp3.1\ConsoleSumApp1.AssemblyInfo.cs
+C:\Users\awashi1\source\repos\ConsoleSumApp1\obj\Debug\netcoreapp3.1\ConsoleSumApp1.csproj.CoreCompileInputs.cache
+C:\Users\awashi1\source\repos\ConsoleSumApp1\obj\Debug\netcoreapp3.1\ConsoleSumApp1.dll
+C:\Users\awashi1\source\repos\ConsoleSumApp1\obj\Debug\netcoreapp3.1\ConsoleSumApp1.pdb
+C:\Users\awashi1\source\repos\ConsoleSumApp1\obj\Debug\netcoreapp3.1\ConsoleSumApp1.genruntimeconfig.cache
